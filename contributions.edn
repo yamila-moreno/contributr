@@ -1,0 +1,15 @@
+[
+    {
+        :user "@yamila_moreno"
+        :contribution "Commit in Django"
+        :url "http://github.com/django/master/blob/kdiejflaslf"
+        :date #inst "2015-05-17"
+    },
+    {
+        :user "@dialelo"
+        :contribution "Clojurescript tutorial"
+        :url "http://github.com/django/master/blob/kdiejflaslf"
+        :date #inst "2015-04-17"
+    }
+]
+
